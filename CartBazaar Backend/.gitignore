@@ -1,0 +1,46 @@
+.vs
+.vscode/
+# Ignore build artifacts
+bin/
+obj/
+# Ignore user-specific files
+*.user
+*.suo
+# Ignore temporary files
+*.tmp
+# Ignore logs
+*.log
+# Ignore NuGet packages
+*.nupkg
+# Ignore Visual Studio Code settings
+.vscode/settings.json
+# Ignore Rider settings
+.idea/
+# Ignore JetBrains Rider files
+.idea/workspace.xml
+# Ignore Rider caches
+.idea/caches/
+# Ignore Rider logs
+.idea/logs/
+# Ignore Rider local history
+.idea/localHistory/
+# Ignore Rider configuration
+.idea/misc.xml
+# Ignore Rider project files
+.idea/modules.xml
+# Ignore Rider run configurations
+.idea/runConfigurations/
+# Ignore Rider inspection profiles
+.idea/inspectionProfiles/
+# Ignore Rider code style settings
+.idea/codeStyles/
+# Ignore Rider VCS settings
+.idea/vcs.xml
+# Ignore Rider deployment configurations
+.idea/deployment/
+# Ignore Rider database settings
+.idea/dataSources/
+
+# Ignore Rider database drivers
+.idea/dataSources.local.xml
+.idea/
